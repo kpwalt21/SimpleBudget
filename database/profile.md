@@ -4,7 +4,8 @@
 * First name - varchar(255)
 * Last name - varchar(255)
 * Password - varchar(255)
-* Inactivity timeout - time delta 
+* Inactivity timeout - time delta
+* Date created - date time
 
 # TFA
 * ID - int
