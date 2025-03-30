@@ -14,6 +14,10 @@
 * Is verified - bool
 * Is activated - bool
 
+# Backup codes
+* TFA ID 
+* Backup codes - varchar(255)
+
 # Theme 
 * Account ID
 * Theme - theme enum
